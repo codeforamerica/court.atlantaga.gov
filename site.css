@@ -59,7 +59,7 @@ em {
 }
 
 a {
-  color: #EB9489;
+  color: #709EF1;
   text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ h1 {
   width: 320px;
   overflow-y: auto;
   overflow-x: hidden;
-  background: #504949;
+  background: #102F53;
 }
 
 .logo {
@@ -118,7 +118,7 @@ h1 {
 }
 
 .dot {
-  color: #A37873;
+  color: #5D7299;
   font-size: 14px;
   position: relative;
   top: -1px;
@@ -142,7 +142,13 @@ h1 {
 }
 
 .content a {
-  color: #BD6A60;
+  color: #4379DB;
+  border-bottom: 1px dotted #658EDA;
+}
+
+.content a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #658EDA;
 }
 
 h2 {
@@ -171,7 +177,7 @@ p {
   bottom: 30px;
   width: 320px;
   text-align: center;
-  background: #504949;
+  background: #102F53;
 }
 
 .phone {
