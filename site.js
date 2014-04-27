@@ -14,7 +14,7 @@ $(document).ready(function() {
     var searchParameter = $('.lookupInput').val();
     if (!searchParameter) return;
 
-    $.get('http://api.atlantamunicipalcourt.org/cases', {
+    $.get('http://courtbot.herokuapp.com/cases', {
       searchParameter: searchParameter
     }).done(function(results) {
       var resultsDiv = $('#results');
