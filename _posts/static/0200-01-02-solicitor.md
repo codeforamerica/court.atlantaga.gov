@@ -3,6 +3,7 @@ layout: page
 published: true
 permalink: /solicitor
 title: Solicitor
+mast: /media/courthouse.jpg
 ---
 
 # Solicitor's Office

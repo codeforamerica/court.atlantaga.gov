@@ -45,8 +45,8 @@ table { border-collapse: collapse; border-spacing:0; }
 
 body {
   font-family: "freight-text-pro", georgia, serif;
-  background: #fff;
-  color: white;
+  background: #102F53;
+  color: #fff;
 }
 
 strong {
@@ -67,17 +67,32 @@ a:hover {
   text-decoration: underline
 }
 
+h1 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #A0A0A0;
+  margin-bottom: -15px;
+  margin-top: 30px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 8px;
+}
+
+p {
+  color: #524D4D;
+  margin-bottom: 10px;
+}
+
 .sidebar {
   text-align: center;
   position: fixed;
   z-index: 10;
   top: 0;
   left: 0;
-  bottom: 0;
-  width: 320px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  background: #102F53;
+  width: 340px;
 }
 
 .logo {
@@ -119,58 +134,50 @@ a:hover {
   top: -1px;
 }
 
-.content {
-  text-align: left;
-  line-height: 24px;
+.contentContainer {
   font-size: 16px;
-  padding-top: 20px;
-  margin-left: 380px;
-  margin-right: 60px;
-  padding-bottom: 30px;
-  max-width: 600px;
+  line-height: 24px;
+  text-align: left;
+  max-width: 680px;
+  margin-left: 340px;
+  background: #fff;
   color: black;
 }
 
-.content img {
+.contentContainer img {
   max-width: 100%;
   padding-top: 20px;
 }
 
-.content a {
+.contentContainer a {
   color: #4379DB;
   border-bottom: 1px dotted #658EDA;
 }
 
-.content a:hover {
+.contentContainer a:hover {
   text-decoration: none;
   border-bottom: 1px solid #658EDA;
 }
 
-h1 {
-  font-weight: bold;
-  font-size: 20px;
-  color: #A0A0A0;
-  margin-bottom: -15px;
-  margin-top: 30px;
+.mast {
+  background-size: 780px;
+  background-size: cover;
+  height: 275px;
+  width: 100%;
 }
 
-h2 {
-  font-weight: bold;
-  margin-top: 30px;
-  margin-bottom: 8px;
+.content {
+  padding: 20px 40px;
+  padding-top: 5px;
 }
 
-p {
-  color: #524D4D;
-  margin-bottom: 10px;
-}
 
 .contact {
   position: fixed;
   z-index: 11;
   left: 0;
   bottom: 30px;
-  width: 320px;
+  width: 340px;
   text-align: center;
   background: #102F53;
 }
@@ -208,7 +215,7 @@ p {
   margin-top: 30px;
 }
 
-.content ul {
+.contentContainer ul {
   margin-bottom: 20px;
 }
 
@@ -282,7 +289,7 @@ p {
   .sidebar {
     position: static;
     width: 100%;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
   }
 
   .logo {
@@ -292,16 +299,18 @@ p {
     font-size: 18px;
   }
 
-  .content {
-    text-align: left;
-    line-height: 24px;
+  .contentContainer {
     font-size: 16px;
     padding-top: 0px;
     margin-top: -10px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
     padding-bottom: 30px;
-    max-width: 600px;
+    max-width: 100%;
+  }
+
+  .mast {
+    display: none;
   }
 
   h1 {
