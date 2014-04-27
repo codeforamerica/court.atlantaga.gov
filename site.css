@@ -160,8 +160,9 @@ p {
 }
 
 .mast {
-  background-size: 780px;
   background-size: cover;
+  /* IE8 polyfill */
+  -ms-behavior: url(/backgroundsize.min.htc);
   height: 275px;
   width: 100%;
 }
