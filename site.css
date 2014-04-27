@@ -67,11 +67,6 @@ a:hover {
   text-decoration: underline
 }
 
-h1 {
-  font-size: 24px;
-  line-height: 48px;
-}
-
 .sidebar {
   text-align: center;
   position: fixed;
@@ -151,18 +146,18 @@ h1 {
   border-bottom: 1px solid #658EDA;
 }
 
-h2 {
-  font-weight: bold;
-  margin-top: 30px;
-  margin-bottom: 8px;
-}
-
-h3 {
+h1 {
   font-weight: bold;
   font-size: 20px;
   color: #A0A0A0;
   margin-bottom: -15px;
   margin-top: 30px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 8px;
 }
 
 p {

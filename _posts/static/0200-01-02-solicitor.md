@@ -5,7 +5,7 @@ permalink: /solicitor
 title: Solicitor
 ---
 
-### Solicitor's Office
+# Solicitor's Office
 
 ## Our Mission
 
@@ -24,7 +24,7 @@ City Solicitor: Raines F. Carter
 
 Office Manager: Catherine Holden <[cholden@atlantaga.gov](mailto:cholden@atlantaga.gov)>
 
-### Special Programs
+# Special Programs
 
 ## Pre-Trial Intervention-Traffic
 
@@ -38,7 +38,7 @@ Commonly referred to as PTI, it is charged with providing alternative methods of
 
 This program is designed to assist undergraduate and graduate students interested in pursuing a career in law with a comprehensive hands-on overview of the legal system, and operations of a legal office. Click here or call 404.658.6618 to find out if you are eligible
 
-### Areas within the Solicitor’s Office
+# Areas within the Solicitor’s Office
 
 ## Appeals Division
 

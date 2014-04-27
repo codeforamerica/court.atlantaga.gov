@@ -5,12 +5,12 @@ permalink: /publicdefender
 title: Public Defender
 ---
 
-### Public Defender's Office
+# Public Defender's Office
 
 ## Mission and Vision
 The overall mission of the Public Defender’s Office is to provide high quality legal representation as efficiently and economically as possible, while maintaining the confidence of clients that they are receiving competent and skilled representation. We envision a model advocacy program for indigent clients seek out our services because of our reputation for protecting the liberty of the accused, treating each and every case with an equal degree of concern, compassion and commitment, championing the constitutional rights of the accused and challenge the state to meet its burden of proof in each and every case and situation.
 
-### FAQs
+# FAQs
 
 ## What is a public defender?
 
@@ -48,7 +48,7 @@ No. However, you may request a new public defender from that court system.
 
 
 
-### Additional Information
+# Additional Information
 
 ## Contact Us
 
@@ -82,7 +82,7 @@ John as Deputy Director assists the Director in the management and direction of 
 As public defenders we provide zealous and effective representation of our clients in order to promote and protect the best interests of the client. As a member of the National College of DUI Defense, John is part of the DUI Defense Team of the Public Defender’s Office.  John is also assigned to the Housing Court Division and works on housing court initiatives.
 
 
-### Services
+# Services
 
 ## 
 
