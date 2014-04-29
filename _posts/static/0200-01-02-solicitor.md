@@ -20,24 +20,23 @@ The City Solicitor's Office works diligently to ensure that justice is dispensed
     Atlanta, Georgia 30303
     Tel: 404.658.6618
     Fax: 404.658.7956
-
-City Solicitor: Raines F. Carter
-
+<br />
+City Solicitor: Raines F. Carter  
 Office Manager: Catherine Holden <[cholden@atlantaga.gov](mailto:cholden@atlantaga.gov)>
 
 # Special Programs
 
 ## Pre-Trial Intervention-Traffic
 
-Commonly known as PTIT, is an alternative to traditional prosecution and sentencing of a case. The program provides traffic offenders an opportunity to resolve their case without proceeding through the traditional court process and sentencing. The program's purpose is to promote responsibility, assist citizens in avoiding points on their license, and provide a service without additional cost to taxpayers. Participation in the program is limited to once every 12 months. Click here or call 404.658.6618 to find out if you are eligible
+Commonly known as PTIT, is an alternative to traditional prosecution and sentencing of a case. The program provides traffic offenders an opportunity to resolve their case without proceeding through the traditional court process and sentencing. The program's purpose is to promote responsibility, assist citizens in avoiding points on their license, and provide a service without additional cost to taxpayers. Participation in the program is limited to once every 12 months.
 
 ## Pre-Trial Intervention
 
-Commonly referred to as PTI, it is charged with providing alternative methods of resolving criminal matters other than prosecution. Participants are charged with minor criminal offenses, do not have prior convictions, do not have any cases pending, and have not already gone through a diversion program. Click here or call 404.658.6618 to find out if you are eligible
+Commonly referred to as PTI, it is charged with providing alternative methods of resolving criminal matters other than prosecution. Participants are charged with minor criminal offenses, do not have prior convictions, do not have any cases pending, and have not already gone through a diversion program. Call 404.658.6618 to find out if you are eligible.
 
 ## Internship Program
 
-This program is designed to assist undergraduate and graduate students interested in pursuing a career in law with a comprehensive hands-on overview of the legal system, and operations of a legal office. Click here or call 404.658.6618 to find out if you are eligible
+This program is designed to assist undergraduate and graduate students interested in pursuing a career in law with a comprehensive hands-on overview of the legal system, and operations of a legal office. Call 404.658.6618 to find out if you are eligible.
 
 # Areas within the Solicitor’s Office
 

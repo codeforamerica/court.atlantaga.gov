@@ -63,21 +63,22 @@ No. However, you may request a new public defender from that court system.
 ## Directors
 
     Rosalie M. Joy
-    Public Defender
-    Interim Director
-    Yrs of service: 25 years of service with the City of Atlanta
-    B.A.,  University of South Florida,  
-    J.D.,  Cumberland School of Law, Samford University, 1988.
-
+    Public Defender, Interim Director
+    25 years of service with the City of Atlanta
+    B.A. University of South Florida,  
+    J.D. Cumberland School of Law, Samford University, 1988.
+<br/>
 Ms. Joy leads the Public Defender’s Office in providing holistic representation to indigent clients in the Atlanta Municipal Court.  Her team consists of attorneys, investigators and legal advocates who work together to provide three core services; legal defense, advocacy in addressing collateral consequences of involvement with the justice system and linkage to essential social services.  
+<br/>
 
     John A. Tapia
-    Public Defender
-    Deputy Director
+    Public Defender, Deputy Director
     7 years of service with the City of Atlanta
     BA Southern Methodist University
     JD Brooklyn Law School 
 
+
+<br/>
 John as Deputy Director assists the Director in the management and direction of the office of the public defender.   He develops partnerships in the Atlanta community that provide services to clients.  He oversees the department budget and works with the defender team to identify needs and build defense services.
 
 As public defenders we provide zealous and effective representation of our clients in order to promote and protect the best interests of the client. As a member of the National College of DUI Defense, John is part of the DUI Defense Team of the Public Defender’s Office.  John is also assigned to the Housing Court Division and works on housing court initiatives.
@@ -87,7 +88,7 @@ As public defenders we provide zealous and effective representation of our clien
 
 ## 
 
-The Municipal Court Public Defender’s Office is charged with the responsibility of representing indigent defendants who are accused of violating any city ordinance for which a criminal penalty can be imposed, as well as certain misdemeanors that the court has concurrent jurisdiction with the State Court of Fulton County. Click the link to find out more about the following services:
+The Municipal Court Public Defender’s Office is charged with the responsibility of representing indigent defendants who are accused of violating any city ordinance for which a criminal penalty can be imposed, as well as certain misdemeanors that the court has concurrent jurisdiction with the State Court of Fulton County.
 
 ## General City Ordinance Violations
 
