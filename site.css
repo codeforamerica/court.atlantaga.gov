@@ -106,6 +106,19 @@ p {
   margin-top: 50px;
 }
 
+.attribution {
+  background: #102F53;
+  padding: 10px;
+  color: #C7C7C7;
+  text-align: center;
+}
+
+.attribution img {
+  width: 40px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
 @media 
 (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 192dpi) { 
@@ -305,7 +318,7 @@ p {
     margin-top: -10px;
     margin-left: 0px;
     margin-right: 0px;
-    padding-bottom: 30px;
+    padding-bottom: 0;
     max-width: 100%;
   }
 
