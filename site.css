@@ -119,6 +119,15 @@ p {
   vertical-align: bottom;
 }
 
+.betawarning {
+  color: #534A38;
+  background: #EEDFC2;
+  line-height: 28px;
+  padding: 14px 43px;
+  margin-bottom: 14px;
+  margin: -5px -40px;
+}
+
 @media 
 (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 192dpi) { 
