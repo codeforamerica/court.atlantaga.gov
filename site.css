@@ -121,11 +121,18 @@ p {
 
 .betawarning {
   color: #534A38;
-  background: #EEDFC2;
-  line-height: 28px;
-  padding: 14px 43px;
+  background: #FFF1D7;
+  line-height: 32px;
+  padding: 30px 43px;
   margin-bottom: 14px;
   margin: -5px -40px;
+}
+
+.tip {
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 10px;
+  color: #535353;
 }
 
 @media 
