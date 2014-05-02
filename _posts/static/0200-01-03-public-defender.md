@@ -3,7 +3,7 @@ layout: page
 published: true
 permalink: /publicdefender
 title: Public Defender
-mast: /media/courthouse.jpg
+mast: /media/justicestatue.jpg
 ---
 
 # Public Defender's Office
