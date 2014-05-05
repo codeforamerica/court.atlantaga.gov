@@ -2,7 +2,7 @@
 
 [http://court.atlantaga.gov/](http://court.atlantaga.gov/)
 
-This is the website for the Municipal Court of Atlanta. It is built using [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/), and supported by [Code for America](http://codeforamerica.org/).
+This is the website for the Municipal Court of Atlanta, built in partnership with [Code for America](http://codeforamerica.org/).
 
 If you have ideas to make it better, please file an issue or make a pull request. The court always welcomes citizen input!
 
@@ -14,7 +14,7 @@ Before you get started make sure you have an up-to-date version of Ruby installe
 brew install ruby
 ```
 
-We use the static site generator [Jekyll](http://jekyllrb.com/) to generate and serve our Design Manual as a website. To install Jekyll run:
+We use the static site generator [Jekyll](http://jekyllrb.com/) to generate and serve the content as a website. To install Jekyll run:
 
 ```
 gem install jekyll
