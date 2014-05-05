@@ -30,5 +30,5 @@ cd court.atlantaga.gov
 Run Jekyll:
 
 ```
-jekyll serve --watch --baseurl ''
+jekyll serve --watch
 ```
