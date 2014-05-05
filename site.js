@@ -16,7 +16,7 @@ $(document).ready(function() {
 
     $.support.cors = true;
     $.get('http://courtbot.herokuapp.com/cases', {
-      searchParameter: searchParameter
+      q: searchParameter
     }).done(function(results) {
       var resultsDiv = $('#results');
       resultsDiv.html('');
@@ -37,13 +37,12 @@ $(document).ready(function() {
       for (var i = 0; i < results.length; i++) {
         var item = results[i];
 
-        var html = ['<div class="citation">' + 'Citation #' + item.citation + '</div>',
-                    '<div class="defendant">' + utils.toTitleCase(item.defendant) + '</div>',
+        var html = ['<div class="defendant">' + utils.toTitleCase(item.defendant) + '</div>',
                     '<div class="datetime">' + item.readableDate + ' ' + item.time + ' in Court ' + item.room + '</div>'].join('');
 
-        var violations = results[i].violations;
-        for (var j = 0; j < violations.length; j++) {
-          html += '<div class="violation">' + violations[j].description + '</div>';
+        var citations = results[i].citations;
+        for (var j = 0; j < citations.length; j++) {
+          html += '<div class="citation">Citation #' + citations[j].id + ' ' + citations[j].description + '</div>';
         }
 
         resultsDiv.append('<div class="case">' + html + '</div>');
