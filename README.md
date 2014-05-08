@@ -8,13 +8,11 @@ If you have ideas to make it better, please file an issue or make a pull request
 
 ## To run it locally
 
-Before you get started make sure you have an up-to-date version of Ruby installed. We use [Homebrew](http://brew.sh/):
+This project is run by the static site generator [Jekyll](http://jekyllrb.com/). Jekyll generates and serves the content as a website.
 
-```
-brew install ruby
-```
+Before you get started make sure you have an [up-to-date version of Ruby installed](https://github.com/codeforamerica/howto/blob/master/Ruby.md).
 
-We use the static site generator [Jekyll](http://jekyllrb.com/) to generate and serve the content as a website. To install Jekyll run:
+To install Jekyll run:
 
 ```
 gem install jekyll
