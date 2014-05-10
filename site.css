@@ -106,6 +106,7 @@ p {
 
 .logo img {
   clear: both;
+  width: 121px;
 }
 
 .siteTitle {
@@ -140,12 +141,6 @@ p {
   line-height: 32px;
   margin-top: 10px;
   color: #535353;
-}
-
-@media 
-(-webkit-min-device-pixel-ratio: 2), 
-(min-resolution: 192dpi) { 
-  .logo img {width: 121px;}
 }
 
 .nav {
