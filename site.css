@@ -98,12 +98,19 @@ p {
 .logo {
   font-size: 20px;
   color: #FFF;
-  background-image: url(../img/goldseal.png);
-  background-size: 121px 121px;
-  padding-top: 160px;
   background-repeat: no-repeat;
   background-position: center top;
   margin-top: 50px;
+  margin-bottom: 36px;
+}
+
+.logo img {
+  clear: both;
+}
+
+.siteTitle {
+  font-size: 20px;
+  color: #FFF;
 }
 
 .attribution {
@@ -138,9 +145,7 @@ p {
 @media 
 (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 192dpi) { 
-  .logo {
-    background-image: url(../img/goldseal@2x.png);
-  }
+  .logo img {width: 121px;}
 }
 
 .nav {
@@ -322,10 +327,14 @@ p {
   }
 
   .logo {
-    background-size: 60px 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}    
+
+  .logo img {
     margin-top: 20px;
-    padding-top: 80px;
     font-size: 18px;
+    width: 60px;
   }
 
   .contentContainer {
