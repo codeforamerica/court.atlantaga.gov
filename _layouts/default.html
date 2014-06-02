@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Atlanta Municipal Court {% if page.url != "/" %}| {{page.title}}{% endif %}</title>
+  <title>Atlanta Municipal Court
+  {% if page.url != "/" %}
+    | {{page.title}}
+  {% else %}
+    - Pay Tickets, Court Case Dates &amp; More
+  {% endif %}</title>
   <meta charset="UTF-8"/>
+  <meta name="description" content="The official Atlanta Court website, for paying tickets and looking up court cases online." />
+
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
   <meta name="google-site-verification" content="WklPQrsOyKmRtV4bTsRqicOiydhzHYHkI4jbbhurR_s" />
   <!-- <link rel="shortcut icon" href="{{site.baseurl}}/img/favicon.ico" type="image/x-icon" /> -->
@@ -76,4 +83,20 @@
     <script type="text/javascript" src="http://jpillora.com/xdomain/dist/0.6/xdomain.min.js" slave="http://courtbot.herokuapp.com/proxy.html"></script>
   <![endif]-->
   <script src="{{site.baseurl}}/site.js"></script>
+
+  <!-- Google Code for Remarketing Tag -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 981753543;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+  <div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981753543/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
 </body>
