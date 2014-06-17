@@ -37,8 +37,9 @@ $(document).ready(function() {
       for (var i = 0; i < results.length; i++) {
         var item = results[i];
 
-        var html = ['<div class="defendant">' + utils.toTitleCase(item.defendant) + '</div>',
-                    '<div class="datetime">' + item.readableDate + ' ' + item.time + ' in Court ' + item.room + '</div>'].join('');
+        var html = '<div class="defendant">' + utils.toTitleCase(item.defendant) + '</div>';
+        if (item.payable) html += '<div class="datetime">You\'re eligible to <a href="https://courtview.atlantaga.gov/pa/EPpa.urd/epmw2000*display">pay online</a> now.</div>';
+        html += '<div class="datetime">' + item.readableDate + ' ' + item.time + ' in Court ' + item.room + '</div>';
 
         var citations = results[i].citations;
         for (var j = 0; j < citations.length; j++) {
@@ -52,4 +53,4 @@ $(document).ready(function() {
       console.log(error);
     });
   });
-})
+});
