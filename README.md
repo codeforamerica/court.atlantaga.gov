@@ -1,12 +1,12 @@
 ## http://court.atlantaga.gov/
 
-This is the website for the [Municipal Court of Atlanta](http://court.atlantaga.gov/), built in partnership with [Code for America](#)(http://codeforamerica.org/). In addition to basic court information, it offers advanced search and SMS abilities, powered by [courtbot](http://github.com/codeforamerica/courtbot).
+This is the website for the [Municipal Court of Atlanta](http://court.atlantaga.gov/), built in partnership with [Code for America](http://codeforamerica.org/). In addition to basic court information, it offers advanced search and SMS abilities, powered by [courtbot](http://github.com/codeforamerica/courtbot).
 
 If you have ideas to make it better, please file an issue or make a pull request. The court always welcomes citizen input!
 
 ## Editing the Court Website
 
-This is the new court website for Atlanta: [court.atlantaga.gov](http://court.atlantaga.gov). It’s powered by [Github Pages](https://pages.github.com/), and the easiest way to edit it is by using [Prose.io](http://prose.io/). In detail:
+The site is powered by [Github Pages](https://pages.github.com/) and the easiest way to edit it is by using [Prose.io](http://prose.io/). In detail:
 
 1. If needed, create a [Github account](http://github.com/) and have [Ryan Shepard](RLShepard@atlantaga.gov) add you to the organization.
 2. Go to [prose.io](http://prose.io/) and login with your account.
@@ -30,26 +30,25 @@ The second link also offers the ability to download a log of previously sent mes
 
 ## Run This Website On Your Computer
 
-This project is run by the static site generator [Jekyll](#)(http://jekyllrb.com/). Jekyll generates and serves the content as a website.
+This project is run by the static site generator [Jekyll](http://jekyllrb.com/). Jekyll generates and serves the content as a website.
 
-Before you get started make sure you have an [up-to-date version of Ruby installed](#)(https://github.com/codeforamerica/howto/blob/master/Ruby.md).
+Before you get started make sure you have an [up-to-date version of Ruby installed](https://github.com/codeforamerica/howto/blob/master/Ruby.md).
 
 To install Jekyll run:
 
+```console
+gem install jekyll
 ```
-`gem install jekyll
-```
-`
+
 Fork and clone the repo:
 
-```
-`git clone git@github.com:codeforamerica/court.atlantaga.gov.git
+```console
+git clone git@github.com:codeforamerica/court.atlantaga.gov.git
 cd court.atlantaga.gov
 ```
-`
+
 Run Jekyll:
 
+```console
+jekyll serve --watch
 ```
-`jekyll serve --watch
-```
-`
