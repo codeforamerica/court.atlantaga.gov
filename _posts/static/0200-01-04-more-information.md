@@ -7,7 +7,7 @@ title: More Information
 
 # More Information
 
-## See these pages for more info:
+## See these pages for more info...
 
 - [Paying or Disputing Parking Tickets](/parkingtickets)
 - [Appearing in DUI Court](/pdfs/DUIWARD_updated_10.21.13.pdf)
