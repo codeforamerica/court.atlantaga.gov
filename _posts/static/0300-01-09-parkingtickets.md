@@ -15,7 +15,7 @@ For further information please contact Parkatlanta at (888) 266-1360.
 
 ## Disputing a Parking Ticket
 
-Parking Dispute Rules:
+Parking Dispute **Rules**:
 
 - • Parking disputes must be submitted within 14 days of issuance of the ticket
 - • Parking ticket number or tag number must be provided
