@@ -7,6 +7,11 @@ title: Failure to Appear Status
 
 # FTA Information
 
+
+##[Do I have an FTA?](http://courtview.atlantaga.gov/warrants/)
+Click the link for a searchable list of all open FTA cases.
+
+
 ## Failure to Appear (FTA) Status and Penalties
 
 If you missed your court date for either a criminal or traffic citation, you are in failure to appear status and a bench warrant may be issued for your arrest. In addition, your driver’s license may be suspended (see additional circumstances below).
