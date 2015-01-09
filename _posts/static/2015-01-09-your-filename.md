@@ -1,10 +1,10 @@
 ---
 layout: page
 published: false
-title: ""
+title: Holiday Closings
 ---
 
-## 2015 City of Atlanta Holiday Closings Holidays Observed by the City of Atlanta & the Municipal Court of Atlanta
+## 2015 City of Atlanta Holiday Closings Observed by the City of Atlanta & the Municipal Court of Atlanta
 
 New Year’s Day Thursday, January 1, 2015
 
