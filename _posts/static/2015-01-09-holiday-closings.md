@@ -15,7 +15,7 @@ permalink: "/holiday-closings"
 **Memorial Day** Monday, May 25, 2015
 (Last Monday in May)
 
-**Independence Day** Friday, July 3*, 2015
+**Independence Day** Friday, July 3, 2015
 (*Holiday Observed by City on this date)
 
 **Labor Day** Monday, September 7, 2015
