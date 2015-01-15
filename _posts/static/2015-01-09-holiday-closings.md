@@ -7,7 +7,7 @@ permalink: "/holiday-closings"
 
 ## 2015 City of Atlanta Holiday Closings Observed by the City of Atlanta & the Municipal Court of Atlanta
 
-New Year’s Day Thursday, January 1, 2015
+**New Year’s Day** Thursday, January 1, 2015
 
 Martin Luther King Jr.’s Birthday Monday, January 19, 2015
 (3rd Monday in January)
