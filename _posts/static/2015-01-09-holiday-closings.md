@@ -2,6 +2,7 @@
 layout: page
 published: true
 title: Holiday Closings
+permalink: "/holiday-closings"
 ---
 
 ## 2015 City of Atlanta Holiday Closings Observed by the City of Atlanta & the Municipal Court of Atlanta
