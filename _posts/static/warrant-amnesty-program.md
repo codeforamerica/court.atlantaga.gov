@@ -1,7 +1,7 @@
 ---
 layout: page
-published: false
-title: Untitled
+published: true
+title: amnesty
 ---
 
 ## What is warrant amnesty?
