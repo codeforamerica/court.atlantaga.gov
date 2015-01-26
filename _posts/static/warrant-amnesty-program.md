@@ -2,6 +2,7 @@
 layout: page
 published: true
 title: amnesty
+permalink: /amnesty
 ---
 
 ## What is warrant amnesty?
