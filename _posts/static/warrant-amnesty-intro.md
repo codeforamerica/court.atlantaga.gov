@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Warrant Amnesty Program
-permalink: /warrant-amnesty-intro
+permalink: /amnesty-intro
 ---
 
 ## What is warrant amnesty?
