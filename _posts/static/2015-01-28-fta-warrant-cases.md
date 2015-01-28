@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 title: FTA Warrant Cases
 permalink: /warrants
 ---
