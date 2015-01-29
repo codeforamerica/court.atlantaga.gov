@@ -15,3 +15,4 @@ Under the program outstanding warrants issued before <b>November 18, 2014</b> wi
 
 <br/><br/>
 <a href="http://court.atlantaga.gov/warrants/"><img src="/_posts/static/wr.png" alt="Do I Have a Warrant?" style="width: 30%; height: 30%"/></a> <a href="http://dit-webtest-01/drfcc/waf.aspx" target="_blank"><img src="/_posts/static/ro.png" alt="Register Online!" style="width: 30%; height: 30%"/></a>
+ 
