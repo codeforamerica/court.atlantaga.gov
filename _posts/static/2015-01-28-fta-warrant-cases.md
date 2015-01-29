@@ -7,7 +7,7 @@ permalink: /warrants
 
 # FTA Warrant Cases
 
-## If you believe your name should not be on this warrant list please contact the Warrant Department @ 404 658 6959 Monday-Friday, 8 to 5 to discuss the matter.
+## This site does not provide confirmation of an active warrant.  All municipal court warrants should be confirmed by authorized court personnel.  Please contact the Warrant Department at 404-658-6959 for warrant confirmation or if you believe your name is listed in error.
 
 
-<iframe src="http://dit-webtest-01/warrants/warrants.aspx" width="100%" height="900px" seamless="seamless"></iframe>
+<iframe src="http://courtview.atlantaga.gov/warrants/warrants.aspx" width="100%" height="900px" seamless="seamless"></iframe>
