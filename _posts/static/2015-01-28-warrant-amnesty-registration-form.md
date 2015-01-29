@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 title: Warrant amnesty registration form
 permalink: "/warrant-registration"
 ---
