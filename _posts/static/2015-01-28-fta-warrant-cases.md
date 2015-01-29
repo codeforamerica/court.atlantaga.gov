@@ -5,8 +5,7 @@ title: FTA Warrant Cases
 permalink: /warrants
 ---
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-<script src="//code.jquery.com/jquery-1.10.2.js"></script>
-<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+<script src="COA/jquery-ui-min.js"></script>
 # FTA Warrant Cases
 
 ## This site does not provide confirmation of an active warrant.  All municipal court warrants should be confirmed by authorized court personnel.  Please contact the Warrant Department at 404-658-6959 for warrant confirmation or if you believe your name is listed in error.
