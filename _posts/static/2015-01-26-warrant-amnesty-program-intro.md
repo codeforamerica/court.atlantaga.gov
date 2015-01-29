@@ -14,5 +14,5 @@ goodwill gesture to individuals who face arrest and other penalties due to a pas
 Under the program outstanding warrants issued before <b>November 18, 2014</b> will be cancelled and the contempt fee will be waived, thereby allowing individuals to resolve their outstanding court case. <a href="http://court.atlantaga.gov/warrant-amnesty-info/">More...</a>
 
 <br/><br/>
-<a href="http://court.atlantaga.gov/warrants/"><img src="https://raw.githubusercontent.com/codeforamerica/court.atlantaga.gov/gh-pages/_posts/static/ro.png" alt="Do I Have a Warrant?" style="width: 30%; height: 30%"/></a> <a href="http://dit-webtest-01/drfcc/waf.aspx" target="_blank"><img src="https://raw.githubusercontent.com/codeforamerica/court.atlantaga.gov/gh-pages/_posts/static/wr.png" alt="Register Online!" style="width: 30%; height: 30%"/></a>
+<a href="http://court.atlantaga.gov/warrants/"><img src="https://raw.githubusercontent.com/codeforamerica/court.atlantaga.gov/gh-pages/_posts/static/ro.png" alt="Do I Have a Warrant?" style="width: 30%; height: 30%"/></a> <a href="http://dit-webtest-01/drfcc/waf.aspx" target="_blank"><img src="https://raw.githubusercontent.com/codeforamerica/court.atlantaga.gov/gh-pages/_posts/static/wr.png" alt="Register Online!" style="width: 30%; height: 30%"/></a> 
  
