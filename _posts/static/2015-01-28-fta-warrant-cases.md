@@ -4,8 +4,8 @@ published: true
 title: FTA Warrant Cases
 permalink: /warrants
 ---
-<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-<script src="https://github.com/tmunyengango/COA/blob/master/jquery-ui-min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 # FTA Warrant Cases
 
 ## This site does not provide confirmation of an active warrant.  All municipal court warrants should be confirmed by authorized court personnel.  Please contact the Warrant Department at 404-658-6959 for warrant confirmation or if you believe your name is listed in error.
