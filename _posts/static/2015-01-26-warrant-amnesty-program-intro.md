@@ -16,8 +16,8 @@ Under the program outstanding warrants issued before <b>November 18, 2014</b> wi
 <br/><br/>
 <table>
 <tr>
-<td><a href="http://courtview.atlantaga.gov/warrants/" target="_blank"><img src="https://raw.githubusercontent.com/codeforamerica/court.atlantaga.gov/gh-pages/_posts/static/wr.png" alt="Do I Have a Warrant?" style="width: 80%; height: 80%"/></a> </td>
-<td><a href="http://www.atl311.com/?page_id=115&atlId=1-A3OGO&_crauth=55226cbe84" target="_blank"><img src="https://raw.githubusercontent.com/codeforamerica/court.atlantaga.gov/gh-pages/_posts/static/ro.png" alt="Register Online!" style="width: 80%; height: 80%"/></a></td>
+<td><a href="http://courtview.atlantaga.gov/warrants/" target="_blank"><img src="http://www.atlantaga.gov/Modules/ShowImage.aspx?imageid=2179" alt="Do I Have a Warrant?" style="width: 80%; height: 80%"/></a> </td>
+<td><a href="http://www.atl311.com/?page_id=115&atlId=1-A3OGO&_crauth=55226cbe84" target="_blank"><img src="http://www.atlantaga.gov/Modules/ShowImage.aspx?imageid=2181" alt="Register Online!" style="width: 80%; height: 80%"/></a></td>
 </tr>
 </table>
  
