@@ -156,6 +156,20 @@ p {
   color: white;
 }
 
+.nav2 {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.nav2 a {
+  padding: 0 4px;
+  color: red;
+}
+
+.nav2 a.active {
+  color: red;
+}
+
 .dot {
   color: #5D7299;
   font-size: 14px;
