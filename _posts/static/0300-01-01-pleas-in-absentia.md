@@ -44,4 +44,5 @@ Please be advised, if your case is rejected at any point during the process, or 
 
 If you have access to a computer and have any questions or concerns, you can email us at: <a href="mailto:plea-in-absentia@atlantaga.gov">plea-in-absentia@atlantaga.gov</a>. If you cannot email us, you can call (404) 658-6618, ext 86962.
 
-[PLEA IN ABSENTIA PRINTABLE FORM](/pdfs/PLEA_IN_ABSENTIA03032015.pdf)
+
+<a href="/pdfs/PLEA_IN_ABSENTIA03032015.pdf" target="_blank">PLEA IN ABSENTIA PRINTABLE FORM</a>
