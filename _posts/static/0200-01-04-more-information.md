@@ -6,6 +6,7 @@ title: More Information
 ---
 
 
+
 # More Information
 
 ## See these pages for more info...
@@ -20,7 +21,6 @@ title: More Information
 - [Red Light Ticket Information](/redlightticket)
 - [Request to Enter a Plea in Absentia](/pleas)
 - [Standard Criminal Offense Fines](/pdfs/collateral schedule_92206.pdf)
-- [Standard Traffic Offense Fines](/pdfs/The Municipal Court of Atlanta Traffic Violation Bureau Fine Schedule 6.01.13.pdf)
+- [Standard Traffic Offense Fines](/pdfs/Court of Atlanta Bond Schedule revised 2015.pdf)
 - [Teens Learning Control Program](/teenlearning)
 - [Towed Vehicle Information](/towedvehicles)
-
