@@ -5,6 +5,7 @@ permalink: /fta
 title: Failure to Appear Status
 ---
 
+
 # FTA Information
 
 
@@ -20,14 +21,14 @@ You may be able to avoid further penalties by scheduling an appearance before a 
 
 ## FTA Hearings
 
-The court schedules Failure to Appear (FTA) hearings on a limited basis Monday - Thursday so that defendants can have FTA charges reviewed by a judge. If your case is in FTA status, you should contact the court at (404) 658-6940 for more information and to make sure your FTA hearing can be scheduled. The court is open to the public at 7:00 am. Defendants whose original hearing was scheduled for 8:00 am will only be placed on an 8:00 am FTA calendar and must arrive at the Clerk's Office between 7:00 am and 7:30 am to be eligible to be placed on the 8:00 am FTA calendar. Defendants whose original hearing was scheduled for 3:00 pm will only be placed on a 3:00 pm FTA calendar and must arrive at the Clerk's Office between 12:00 pm and 2:00 pm to be placed on the 3:00 pm FTA calendar. Please note that after the defendant has been placed on a calendar, the judge hearing the FTA calendar has the discretion to reset that case as necessary. Information and assistance is available at any customer service window located when you first enter the building EXCEPT for Window 7. 
+**The Municipal Court offers special FTA dockets each day at 9a and 1p.** To be added to one of these dockets, come to the courthouse no later than 8a for the 9a docket and no later than noon for the 1p docket, Monday-Friday. **Early arrival is strongly recommended because of limited capacity.**
+ 
+You may be charged an FTA fee for missing your original court date. If you have a valid medical excuse or documentation of being incarcerated, bring evidence to your new court date.
 
 Please note that if you appear in court the Traffic Violation Bureau (TVB) fine listed may not apply. However, the judge may order a fine amount which may be more or less than the TVB fine amount paid prior to court. Also, please note that the judge may require your FTA penalty to be paid prior to your FTA court appearance. Please contact the court for more information on how this may affect you.
 
-Note: FTA hearings will not be scheduled on Fridays. 
 
-
-Suspension of license due to Failure to Appear (FTA) in Court
+## Suspension of license due to Failure to Appear (FTA) in Court
 
 Georgia Code requires the following penalties for those failing to appear in court for traffic violations.
 
