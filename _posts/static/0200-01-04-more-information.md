@@ -20,6 +20,7 @@ title: More Information
 - [Paying or Disputing Parking Tickets](/parkingtickets)
 - [Red Light Ticket Information](/redlightticket)
 - [Request to Enter a Plea in Absentia](/pleas)
+- [Request for Reset](http://web.atlantaga.gov/mc-rfr/)
 - [Criminal Offense Schedule](/pdfs/collateral schedule_92206.pdf)
 - [Traffic Bond Schedule](/pdfs/Court of Atlanta Bond Schedule revised 2015.pdf)
 - [Teens Learning Control Program](/teenlearning)
