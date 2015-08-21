@@ -17,7 +17,7 @@ title: More Information
 - [Appearing in DUI Court](/pdfs/DUIWARD_updated_10.21.13.pdf)
 - [Assistance with Disabilities](/disabilities)
 - [Bond Procedures](/pdfs/Bond Procedures.pdf)
-- [Case Managers Contact Information](/pdfs/Case Managers Info.pdf) 
+- [Courtroom Staff Contact Information](/pdfs/Case Managers Info.pdf) 
 - [Certified Dispositions](http://web.atlantaga.gov/drf/)
 - [Court Programs](/courtprograms)
 - [Failure to Appear (FTA) Status and Penalties](/fta)
