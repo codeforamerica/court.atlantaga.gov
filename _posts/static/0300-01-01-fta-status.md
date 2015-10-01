@@ -7,6 +7,7 @@ title: Failure to Appear Status
 
 
 
+
 # FTA Information
 
 
@@ -23,6 +24,8 @@ You may be able to avoid further penalties by scheduling an appearance before a 
 ## FTA Hearings
 
 **The Municipal Court offers special FTA dockets each day at 9a and 1p.** To be added to one of these dockets, come to the courthouse no later than 8a for the 9a docket and no later than noon for the 1p docket, Monday-Friday. **Doors open at 7a daily. Early arrival is strongly recommended because of limited capacity.**
+
+If you are an out of state driver and you need to schedule a time to resolve your FTA please submit your request [here](http://www.atl311.com/?page_id=115&atlId=1-HQEVE&_crauth=0f1b76975e).
  
 You may be charged an FTA fee for missing your original court date. If you have a valid medical excuse or documentation of being incarcerated, bring evidence to your new court date.
 
