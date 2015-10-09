@@ -9,6 +9,7 @@ title: Failure to Appear Status
 
 
 
+
 # FTA Information
 
 
@@ -24,7 +25,7 @@ You may be able to avoid further penalties by scheduling an appearance before a 
 
 ## FTA Hearings
 
-**The Municipal Court offers special FTA dockets Monday-Friday at 9a and 1p.** You must arrive early to be added to the docket. **Doors open at 7a daily. Early arrival is strongly recommended because of limited capacity.**
+**The Municipal Court offers special FTA dockets Monday-Friday at 9a and 1p. Daily capacity is limited.** You must arrive early to be added to the docket. **Doors open at 7a daily. Remember, early arrival is strongly recommended because of limited capacity.**
 
 If you are an out of state driver and you need to schedule a time to resolve your FTA please submit your request [here](http://www.atl311.com/?page_id=115&atlId=1-HQEVE&_crauth=0f1b76975e).
  
