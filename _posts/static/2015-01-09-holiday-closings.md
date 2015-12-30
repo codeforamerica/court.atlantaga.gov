@@ -5,27 +5,28 @@ title: Holiday Closings
 permalink: "/holiday-closings"
 ---
 
-## 2015 City of Atlanta Holiday Closings Observed by the City of Atlanta & the Municipal Court of Atlanta
 
-**New Year’s Day** Thursday, January 1, 2015
+## 2016 City of Atlanta Holiday Closings Observed by the City of Atlanta & the Municipal Court of Atlanta
 
-**Martin Luther King Jr.’s Birthday** Monday, January 19, 2015
+**New Year’s Day** Friday, January 1, 2016
+
+**Martin Luther King Jr.’s Birthday** Monday, January 18, 2016
 (3rd Monday in January)
 
-**Memorial Day** Monday, May 25, 2015
+**Memorial Day** Monday, May 30, 2016
 (Last Monday in May)
 
-**Independence Day** Friday, July 3, 2015
-(*Holiday Observed by City on this date)
+**Independence Day** Monday, July 4, 2016
 
-**Labor Day** Monday, September 7, 2015
+**Labor Day** Monday, September 5, 2016
 (1st Monday in September)
 
-**Veterans’ Day** Wednesday, November 11, 2015
+**Veterans’ Day** Friday, November 11, 2015
 
-**Thanksgiving** Thursday, November 26, 2015
+**Thanksgiving** Thursday, November 24, 2015
 (4th Thursday in November)
 
-**Friday after Thanksgiving** Friday, November 27, 2015
+**Friday after Thanksgiving** Friday, November 25, 2015
 
-**Christmas** Friday, December 25, 2015
+**Christmas** Monday, December 26, 2015
+(Observed)
