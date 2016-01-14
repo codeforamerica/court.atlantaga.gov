@@ -6,6 +6,7 @@ permalink: "/holiday-closings"
 ---
 
 
+
 ## 2016 City of Atlanta Holiday Closings Observed by the City of Atlanta & the Municipal Court of Atlanta
 
 **New Year’s Day** Friday, January 1, 2016
@@ -21,12 +22,12 @@ permalink: "/holiday-closings"
 **Labor Day** Monday, September 5, 2016
 (1st Monday in September)
 
-**Veterans’ Day** Friday, November 11, 2015
+**Veterans’ Day** Friday, November 11, 2016
 
-**Thanksgiving** Thursday, November 24, 2015
+**Thanksgiving** Thursday, November 24, 2016
 (4th Thursday in November)
 
-**Friday after Thanksgiving** Friday, November 25, 2015
+**Friday after Thanksgiving** Friday, November 25, 2016
 
-**Christmas** Monday, December 26, 2015
+**Christmas** Monday, December 26, 2016
 (Observed)
