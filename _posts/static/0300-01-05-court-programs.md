@@ -5,6 +5,7 @@ permalink: /courtprograms
 title: Court Programs
 ---
 
+
 # Court Programs
 
 ## Overview
@@ -55,10 +56,10 @@ Conflict Resolution classes teach individuals how to effectively communicate wit
 # People
 
 Herman Sloan, Community Court Judge
-Crystal Gaines, Chief Judge
+Christopher Ward, Chief Judge
 
 Court Administration
-Christopher Patterson, Municipal Court Administrator 
+Ryan Shepard, Municipal Court Administrator 
 
 Court Programs Administration 
 Garrett Allen, Court Operations Supervisor (404) 588-5903
