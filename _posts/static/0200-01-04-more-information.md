@@ -5,18 +5,6 @@ permalink: /moreinformation
 title: More Information
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
 # More Information
 
 ## See these pages for more info...
