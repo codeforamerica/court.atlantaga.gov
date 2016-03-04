@@ -5,6 +5,7 @@ permalink: /moreinformation
 title: More Information
 ---
 
+
 # More Information
 
 ## See these pages for more info...
@@ -22,7 +23,7 @@ title: More Information
 - [Red Light Ticket Information](/redlightticket)
 - [Request to Enter a Plea in Absentia](/pleas)
 - [Request for Reset](http://www.atl311.com/?page_id=115&atlId=1-HRXQE&_crauth=0f1b76975e)
-- [Traffic Violations Bureau Offenses & Fines](/pdfs/Court of Atlanta Bond Schedule revised 2015.pdf)
+- [Tax Refund Intercept Program](http://trip.georgiacourts.gov/)
 - [Teens Learning Control Program](/teenlearning)
 - [Towed Vehicle Information](/towedvehicles)
-- [Tax Refund Intercept Program](http://trip.georgiacourts.gov/)
+- [Traffic Violations Bureau Offenses & Fines](/pdfs/Court of Atlanta Bond Schedule revised 2015.pdf)
