@@ -17,17 +17,17 @@ If you are represented by an attorney, you are not eligible to plea in absentia 
 
 Please be advised that a plea in absentia request will not be accepted for the following charges: 
 
-•	Accidents involving serious bodily injury
-•	Aggressive Driving
-•	City ordinance violations involving Prostitution or serious damage to persons or property/violence
-•	Driving on Revoked/Suspended License/Driving without a valid license
-•	Drug related charges
-•	DUI
-•	Fleeing and Attempting to elude Police
-•	Habitual Violator
-•	Hit & Run
-•	Suspended Registration, and
-•	Vehicular Homicide
+- Accidents involving serious bodily injury
+- Aggressive Driving
+- City ordinance violations involving Prostitution or serious damage to persons or property/violence
+- Driving on Revoked/Suspended License/Driving without a valid license
+- Drug related charges
+- DUI
+- Fleeing and Attempting to elude Police
+- Habitual Violator
+- Hit & Run
+- Suspended Registration, and 
+- Vehicular Homicide
 
 There may be other charges or acts that may disqualify you from entering a Plea in Absentia. Your driving history and criminal history, if any, will impact whether or not you will be allowed to complete your case without having to appear in Court. You will be notified in writing if your case is rejected.
 
@@ -38,11 +38,8 @@ The request to enter a plea in absentia should be made on the printable form bel
 When filing a request to enter a plea in absentia for a traffic case, please include a photocopy of your current and valid insurance card.
 
 Please file the form at least 10 days prior to your court date. This will prevent a failure to appear being entered on your record which may cause your driving privilege to be suspended and will prevent a monetary penalty from being added to your case.  You may file the form by emailing it to the court at <a href="mailto:municourt@atlantaga.gov">municourt@atlantaga.gov</a>, faxing the form to the court at (404)546-9339, or mailing the form to the court at: 
-                                   Municipal Court
-                               Attn: Ombudsman Unit/PIA
-                                150 Garnett Street, SW
-                                  Atlanta, GA 30303
 
+- Municipal Court Attn: Ombudsman Unit/PIA 150 Garnett Street, SW Atlanta, GA 30303
 
 Requesting a plea in absentia will reset your case for  6 months. This reset allows us time to complete your case through the mail. Once your form has been received you will be notified with a letter detailing the plea in absentia process. This includes notifying you of your new court date and letting you know of possible documentation that you could be required to provide. Handling your case as a Plea in Absentia is time sensitive so applicants must be timely in fulfilling the necessary requirements.
 
