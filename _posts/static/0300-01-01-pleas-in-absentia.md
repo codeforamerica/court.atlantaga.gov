@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 permalink: /pleas
 title: Pleas in Absentia
 ---
