@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 permalink: /pleas
 title: Pleas in Absentia
 ---
@@ -8,7 +8,7 @@ title: Pleas in Absentia
 
 # REQUEST TO ENTER A PLEA IN ABSENTIA
 
-## PART I.. QUALIFICATIONS
+## PART I. QUALIFICATIONS
 
 A plea in absentia means that you would like to make a plea of “guilty” or “no contest” on your case without having to come to court. So, if you live out of state or work out of town, a plea in absentia may help you complete your case without appearing in Municipal Court. 
 
