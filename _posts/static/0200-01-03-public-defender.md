@@ -6,6 +6,7 @@ title: Public Defender
 mast: /media/justicestatue.jpg
 ---
 
+
 # Public Defender's Office
 
 ## Mission and Vision
@@ -53,9 +54,8 @@ No. However, you may request a new public defender from that court system.
 
 ## Contact Us
 
-    Atlanta Municipal Court, 1st Floor
-    City Public Defender’s Office 
-    150 Garnett Street, SW
+    Garnetts Station Place 
+    236 Forsyth Street SW
     Atlanta, Georgia 30303
     Tel: 404.658.6838
     Fax: 404.658.6848
