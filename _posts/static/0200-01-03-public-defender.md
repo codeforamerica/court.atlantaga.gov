@@ -53,9 +53,7 @@ No. However, you may request a new public defender from that court system.
 
 ## Contact Us
 
-    Atlanta Municipal Court, 1st Floor
-    City Public Defender’s Office 
-    150 Garnett Street, SW
+    236 Forsyth St, SW, 5th Floor
     Atlanta, Georgia 30303
     Tel: 404.658.6838
     Fax: 404.658.6848
