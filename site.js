@@ -23,7 +23,7 @@ $(document).ready(function() {
 
       var message;
       if (results.length === 0) {
-        message = 'No matching cases found. Please call us at (404) 658-6940.';
+        message = '<strong>No matching cases found. Please call us at <a href="tel:4046586940">(404) 658-6940</href>.</strong>';
       } else if (results.length === 1) {
         message = 'Your case:';
       } else if (results.length <= 9) {
