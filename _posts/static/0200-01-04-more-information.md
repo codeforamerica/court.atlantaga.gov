@@ -17,7 +17,6 @@ title: More Information
 - [Bond Procedures](/pdfs/Bond Procedures.pdf)
 - [Certified Dispositions](http://www.atl311.com/?page_id=115&atlId=1-G9G6U&_crauth=0f1b76975e)
 - [Court Programs](/courtprograms)
-- [Courtroom Staff Contact Information](/pdfs/Case Managers Info.pdf) 
 - [Criminal Offense Schedule](/pdfs/collateral schedule_92206.pdf)
 - [Failure to Appear (FTA) Status and Penalties](/fta)
 - [Paying or Disputing Parking Tickets](/parkingtickets)
