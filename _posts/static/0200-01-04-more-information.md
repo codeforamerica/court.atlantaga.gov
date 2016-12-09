@@ -11,8 +11,8 @@ title: More Information
 
 ## See these pages for more info...
 
-- [Court Calendars for Defendants][Court Calendars for Defendants]
-- [Court Calendars for Officers][Court Calendars for Officers]
+- [Court Calendars for Defendants](Court Calendars for Defendants)
+- [Court Calendars for Officers](Court Calendars for Officers)
 - [2016 Holiday Closings](/holiday-closings)
 - [Appearing in DUI Court](/pdfs/DUIWARD_updated_10.21.13.pdf)
 - [Assistance with Disabilities](/disabilities)
