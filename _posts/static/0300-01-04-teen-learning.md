@@ -5,7 +5,7 @@ permalink: /teenlearning
 title: Teen Learning
 ---
 
-# Tean Learning Control Program
+# Teen Learning Control Program
 
 ## Background
 
