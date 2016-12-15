@@ -10,78 +10,78 @@ title: Court Programs
 
 ## Overview
 
-Municipal Court of Atlanta’s Community Court responds to what are known as quality of life crimes: prostitution, disorderly conduct, panhandling and low-level drug offenses. Community Court is committed to the dual principles of restorative justice and rehabilitation. Restorative Justice promotes the idea that the criminal justice system can better serve the community by using alternative sentencing options, such as community service, to allow individuals charged with low-level offenses “to give something back” to their community.
+The Municipal Court of Atlanta’s Community Court utilizes a non-traditional approach to “quality of life” crimes: prostitution, disorderly conduct, panhandling and low-level drug offenses. Community Court is committed to the dual principles of restorative justice and rehabilitation through the implementation of sentencing alternatives and legal sanctions. Restorative Justice promotes the idea that the criminal justice system can better serve the community by holding individuals charged with low-level criminal offenses accountable for their actions. Simultaneously, the Community Court provides opportunities for offenders to exhibit an active role in the betterment of their community. Through labor intensive and visible contributions toward valuable projects in the local area, the offender is able to prove his/her worth as a member of the community by regaining the trust and acceptance of fellow citizens. The rehabilitation aspect is also addressed because the offender is required to participate in educational and future preventative support services (e.g., anger management classes, addiction prevention workshops, shoplifting classes) geared to help facilitate their transition back into society. The Community Court aims to effectively address the underlying causes of criminality, while ensuring the services offered are specifically designed to help curb future criminal behavior. 
 
-Community Court takes a nontraditional approach to working with offenders, using sentencing alternatives and legal sanctions to promote rehabilitation and address the underlying causes of criminality. The Court maintains that it has a clear interest, both ethical and financial, in seeing to it that offenders receive services that will help curb future criminal behavior.
+Community Court represents the combined efforts of the criminal justice system, local governments, non-profit agencies and the private sector. The leadership provided by Judge Herman Sloan along with the dedication and participation of other Municipal Court judges, city departments, agencies and service providers make this operation a success. Community Court greatly values its partnerships with city, county, state, private and non-profit agencies which provide treatment services to the Court’s defendants. Defendants are often referred to Community Court from various sources, including the Municipal Court Judges, Office of the Public Defender, Office of the City Solicitor and Atlanta City Detention Center.
 
-Defendants can be referred to Community Court from a number of sources, including the Municipal Court Judges, Office of the Public Defender, Office of the City Solicitor, Crisis Intervention Team (CIT) Officers and Detention Center staff.
+The Office of Court Programs oversees Community Court as well as all of its additional programs, services and classes.
 
-Community Court represents the combined efforts of the criminal justice system, local governments, non-profit agencies and the private sector. The leadership provided by Judge Clinton Deveaux and Judge Crystal Gaines along with the dedication and participation of other city departments, agencies and service providers make Community Court work. Community Court greatly values its partnerships with county, state, private and non-profit agencies which provide treatment services to the Court’s defendants.
-
-Community Court is managed through the Office of Court Programs. The Office oversees Community Court programs, services and classes.
 
 ## Teens Learning Control (TLC)
 
-TLC is for young drivers between 17 and 21 who are convicted of various driving offenses and possession charges. The program includes innovative tactics designed to educate and deter future negative driving behaviors and substance usage. TLC also provides lessons in decision-making that can be applied to all areas of life.
+TLC is for young drivers, ages 17 through 20, who are convicted of various driving offenses. The program includes innovative tactics designed to educate and deter future negative driving behaviors. TLC also provides lessons in decision-making that can be applicable to all areas of life.
 
 ## Restorative Justice Boards
 
-The Restorative Boards are composed of concerned residents in the City of Atlanta who are interested in repairing and restoring the harmful effects that crime has caused in their community by working with those who commit those crimes. The program participants are usually young first-time offenders needing to address issues of education, employment, some drug use, anger issues, etc.
+The Restorative Boards are composed of concerned residents in the City of Atlanta who are interested in repairing and restoring the harmful effects crime has caused in their community. The Boards work directly with the offenders who commit those crimes. Program participants are usually young, first-time offenders needing to address issues of education, employment, anger management, possibly drug abuse, etc.
 
-The Restorative Board members identify the needs of the participant, recommend sanctions to the Court, and monitor the completion of those sanctions. The goal is to reconnect the participants to the community through the guidance and mentoring of Board members and through participation in community service projects. 
+The Restorative Board members identify the needs of the participant, recommend sanctions to the Court, and monitor the completion of those sanctions. The goal is to reconnect participants to the community through the guidance and mentoring of Board members and through involvement in other court-ordered sanctions, such as community service projects and support services.
+
+## Restorative Justice Center
+
+The mission of the Restorative Board Justice Center and the Restorative Justice Board is to provide funding streams and grant assistance for many of the existing court programs as well as to help develop other means of financial support. 
 
 ## Clinical Services
 
-Through Clinical Services, defendants are assessed for mental health and substance addiction issues. If the defendant chooses the treatment option, an appropriate treatment provider is identified, and the defendant enters the treatment program. The defendant is monitored and the case is managed until treatment requirements are met and the case is dismissed.
+Through Clinical Services, defendants are assessed for mental health and substance addiction issues. If the defendant chooses the treatment option, an appropriate treatment provider is identified, and the defendant enters the treatment program. The defendant is monitored and the case is managed until treatment requirements are met and the case is closed.
 
 ## Community Service
 
-Community Service strengthens communities by reconnecting offenders with local residents through positive work projects and encourages smaller neighborhoods to organize and address crime problems by partnering with the criminal justice system. Additionally, as an alternative to incarceration, community service allows the Court to move low-level offenders out the of the criminal justice system, freeing up costly jail space for those charged with more serious offenses. 
+Community Service strengthens communities by reconnecting offenders with local residents through positive work projects. It also encourages smaller neighborhoods to organize and address crime problems by partnering with the criminal justice system. Additionally, as an alternative to traditional sentencing, community service allows the Court to move low-level offenders out of the criminal justice system.
 
 ## Veterans Assistance 
 
-Defendants identified as veterans are assisted in connecting to services through the Veterans’ Administration. The VA assists the defendants with addiction issues, housing and employment. 
+Defendants identified as veterans are assisted in connection to services through the Veterans’ Administration. The VA assists the defendants with addiction issues, housing and employment.
 
+## The Talented 10th Leadership Program
+
+This program is focused on the social, emotional and cognitive growth of first-time non-violent offenders ages 18-24. The Talented 10th was created to help participants recognize their talents and become agents of change who positively influence their peers and the society in which they live. For more information about The Talented 10th Leadership program, click [here](http://www.masonwest.org/talented-tenth-leadership-program.html).
 
 # Classes
 
 ## Anger Management
 
-Anger Management classes educate and provide individuals with the necessary tools that can be incorporated into daily life to prevent situations where anger causes negative consequences.
+Anger Management classes provide education and the necessary skills to incorporate better decision making to prevent situations where anger causes negative consequences.
 
-## Conflict Resolution
+## Addiction Prevention Workshop
 
-Conflict Resolution classes teach individuals how to effectively communicate with others without letting their emotions and/or anger dictate the interaction. 
+The Addiction Prevention Workshop is conducted in-house by outside vendors. This workshop serves as a required mandate for defendants with marijuana, alcohol or shoplifting charges. The workshop is designed to provide in-depth education and a collaborative discussion on the physical, emotional and interpersonal impact of substance use.
 
-# People
+## FYI/ C=C
 
-Herman Sloan, Community Court Judge
-Christopher Ward, Chief Judge
+FYI/ C=C (For Your Information, Choices Equal Consequences) is a class offered exclusively by the court for defendants assigned to the Teens Learning Control (TLC) program. This class is designed to provide participants with a clear understanding of how their choices impact their future, particularly in the legal system. The goal is to provide information that will deter the participant from being a repeat offender.  
 
-Court Administration
-Ryan Shepard, Municipal Court Administrator 
+# Staff
 
-Court Programs Administration 
-Garrett Allen, Court Operations Supervisor (404) 588-5903
+Honorable Judge Herman Sloan, Community Court
 
-Court Programs Coordination
-Donna Edward, Programs Coordinator (404) 588-5902
+Honorable Judge Calvin Graves, Chief Judge
 
-Teens Learning Control (TLC) Program
-Tekeema Landers, TLC Coordinator (404) 588-5905
+Court Administration Ryan Shepard, Municipal Court Administrator
+
+**Court Programs Administration** Garrett Allen, Court Operations Supervisor (404) 588-5903
+
+**Court Programs Coordination** Dr. Ashlee’ Pickett, Programs Coordinator (404) 954-7843
+
+**Teens Learning Control (TLC) Program** 
+Tekeema Landers, TLC Coordinator (404) 588-5905 
 Sabrina Payne, TLC Coordinator (404) 588-5915
+Ajah Smith, TLC Coordinator (404) 588-5913
 
-Restorative Board Program
-Anita Johnson, Restorative Board Coordinator (404) 588-5922
+**Restorative Board Program**
+Robert Jones, Restorative Board Coordinator (404) 588-5902
+Deidra Black, Restorative Board Coordinator (404) 588-5911
+Genarlow Wilson, Restorative Board Coordinator (404) 588-5958
 
-Clinical Services
-Janel Wheeler, Clinical Evaluator (404) 588-5914
-Ebony Huckabee, Clinical Evaluator (404) 588-5911 
-
-## Restorative Justice
-
-Restorative justice is a response to crime that focuses on holding the offender accountable for the harm they have caused and building peace within communities. It provides offenders an opportunity to tangibly and symbolically reimburse the community for some of the damage they have caused as they perform visible, meaningful community service within the community. Citizens see the offender as an individual working for rather than against the community. Restorative justice restores communities by allowing the offender to contribute labor or talent to valuable and visible community projects and prove his/her worth as a member of the community therefore regaining acceptance by its citizens. 
-
-## Restorative Justice Center
-
-The mission of Restorative Board Justice Center and the Restorative Justice Board is to provide funding streams and grant assistance for many of the existing court programs and help develop others. For more information about the Restorative Justice Center, click here.
+**Clinical Services**- 
+Ayana Domingo-Hanse, Clinical Evaluator (404) 588-5914 Brittley Eatman, Social Worker (404) 588-5916
