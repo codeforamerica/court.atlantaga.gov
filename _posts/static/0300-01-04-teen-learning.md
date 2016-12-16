@@ -22,7 +22,7 @@ I. REGISTRATION: Three (3) Steps
 
 **Step 1: Assessment**
 
-Carefully read and completely fill out this [**Assessment form**](court.atlantaga.gov/ TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
+Carefully read and completely fill out this **[Assessment form]**(court.atlantaga.gov/ TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
 
 **Step 2: Module Assignment**
 
@@ -41,7 +41,7 @@ Ajah Smith (404)588-5913
 
 **Step 3: Community Service Requirements**
 
-Modules II, III, IV and V include a community service component. Please carefully read the **[Community Service Waiver**](court.atlantaga.gov / pdfs / Community Service Waiver.doc )and [**[Community Service Assignment Sheet]**](court.atlantaga.gov / pdfs / Comm Service Assignment Sheet.doc ). Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
+Modules II, III, IV and V include a community service component. Please carefully read the [Community Service Waiver](court.atlantaga.gov / pdfs / Community Service Waiver.doc )and **[[Community Service Assignment Sheet]]**(court.atlantaga.gov / pdfs / Comm Service Assignment Sheet.doc ). Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
 
 Module III Participants: An additional Defensive Driving Course is mandatory; it must be a state certified 6-8 hour course. (This is separate from the ALIVE At 25 class you must also attend). For information on the Defensive Driving Course, please contact the [Department of Driver Services](http://www.dds.ga.gov/aboutus/contactus.aspx) for a state certified driver improvement clinic.
 
