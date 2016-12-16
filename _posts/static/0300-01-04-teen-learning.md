@@ -41,7 +41,7 @@ Ajah Smith (404)588-5913
 
 **Step 3: Community Service Requirements**
 
-Modules II, III, IV and V include a community service component. Please carefully read the **[Community Service Waiver**](court.atlantaga.gov / pdfs / Community Service Waiver.doc ) and **[Community Service Assignment Sheet]**(court.atlantaga.gov / pdfs / Comm Service Assignment Sheet.doc ). Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
+Modules II, III, IV and V include a community service component. Please carefully read the **[Community Service Waiver**](court.atlantaga.gov / pdfs / Community Service Waiver.doc )and [**[Community Service Assignment Sheet]**](court.atlantaga.gov / pdfs / Comm Service Assignment Sheet.doc ). Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
 
 Module III Participants: An additional Defensive Driving Course is mandatory; it must be a state certified 6-8 hour course. (This is separate from the ALIVE At 25 class you must also attend). For information on the Defensive Driving Course, please contact the [Department of Driver Services](http://www.dds.ga.gov/aboutus/contactus.aspx) for a state certified driver improvement clinic.
 
@@ -88,7 +88,7 @@ Visit [www.madd.org](www.madd.org) for class dates, times and locations. Questio
 ALIVE At 25 INFORMATION: Alive At 25 is a Defensive Driving Course that specifically addresses issues and situations affecting drivers between the ages of 16 and 24. The highly interactive four-hour program teaches young adults to take control as drivers and passengers. Through real-world experiences, group discussion and interactive media segments, Alive At 25 is a fun way to learn an important message about responsibility and accountability. 
 
 Please click the links below to view dates, times and registration information.
-[National Safety Council](http://www.nsc.org/Connect/Chapters-Training-Centers/Pages/georgia.aspx?utm_medium=(none)&utm_source=(direct)&utm_campaign=georgiadotnsc)
+[National Safety Council](http://www.nsc.org/Connect/Chapters-Training-Centers/Pages/georgia.aspx?utm_medium=(none)
 [Peachtree DUI & Defensive Driving School](http://www.peachtreedui.com/)
 [Nathan’s Driving School, Inc.](http://www.nathansdrivingschool.net/)
 [Randall Safety Consulting, LLC](http://www.randallsafety.com/)
