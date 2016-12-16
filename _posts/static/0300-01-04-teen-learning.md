@@ -22,7 +22,7 @@ I. REGISTRATION: Three (3) Steps
 
 **Step 1: Assessment**
 
-Carefully read and completely fill out this [Assessment form](court.atlantaga.gov/ TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
+Carefully read and completely fill out this [[Assessment form]](court.atlantaga.gov / pdfs / TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
 
 **Step 2: Module Assignment**
 
@@ -96,7 +96,7 @@ Please click the links below to view dates, times and registration information.
 
 DEFENSIVE DRIVING COURSE INFORMATION: (For Module III participants only) The Defensive Driving Course must be a state certified 6-8 hour course. Contact the Department of Driver Services for a state certified driver improvement clinic.
 
-TEEN VICTIM IMPACT PROGRAM: The Teen Victim Impact Program was specifically designed to encourage proper seat belt use, emphasize the dangers of cell phones while driving and educate young drivers about the consequences of speeding. Register at [www.tvip.org](www.tvip.org).
+TEEN VICTIM IMPACT PROGRAM: The Teen Victim Impact Program was specifically designed to encourage proper seat belt use, emphasize the dangers of cell phones while driving and educate young drivers about the consequences of speeding. Register at [www.tvip.org](http://www.tvip.org/).
 
 
 III.	OUT OF STATE TLC MODULE COMPLETION: "I AM OUT OF STATE. HOW CAN I COMPLETE THIS PROGRAM?"
