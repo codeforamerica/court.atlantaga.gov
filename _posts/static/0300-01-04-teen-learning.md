@@ -82,7 +82,7 @@ Ajah Smith (404)588-5913
 
 MADD VICTIM IMPACT PANEL INFORMATION: MADD Victim Impact Panel is one of MADD's most widely recognized programs. This panel gives victims and survivors of drunk driving crashes an opportunity to share their story with offenders, probationers and traffic violators. MADD Panels aim to prevent underage drinking, convert careless attitudes and behaviors as well as reduce impaired driving recidivism rates. 
 
-Visit [www.madd.org](www.madd.org) for class dates, times and locations. Questions? Contact the MADD State Office at (770) 615-3737 (Main) or (888) 833-6033 (Toll Free).
+Visit [www.madd.org](http://www.madd.org/) for class dates, times and locations. Questions? Contact the MADD State Office at (770) 615-3737 (Main) or (888) 833-6033 (Toll Free).
 
 
 ALIVE At 25 INFORMATION: Alive At 25 is a Defensive Driving Course that specifically addresses issues and situations affecting drivers between the ages of 16 and 24. The highly interactive four-hour program teaches young adults to take control as drivers and passengers. Through real-world experiences, group discussion and interactive media segments, Alive At 25 is a fun way to learn an important message about responsibility and accountability. 
