@@ -22,7 +22,7 @@ I. REGISTRATION: Three (3) Steps
 
 **Step 1: Assessment**
 
-Carefully read and completely fill out this [**Assessment form**](court.atlantaga.gov / pdfs / TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
+Carefully read and completely fill out this [**Assessment form**](court.atlantaga.gov/ TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
 
 **Step 2: Module Assignment**
 
