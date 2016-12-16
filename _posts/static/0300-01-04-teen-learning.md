@@ -11,112 +11,102 @@ title: Teen Learning
 
 Dear Young Driver,
 
-Welcome to Teens Learning Control (TLC)! TLC is aimed at young drivers age 20 and under who are convicted of various driving offenses ranging from a broken taillight to driving under the influence, as well as any other offenses at the Court's discretion. Unfortunately, automobiles accidents are the leading cause of death among young people. The goal of the TLC program is to educate you and prevent negative driving behaviors in the future. The program also attempts to provide you with life skills that can be applied to all areas of living.
+Welcome to Teens Learning Control (TLC)! The TLC Program is aimed at young drivers age 20 and under who are convicted of various driving offenses ranging from a broken tail light to driving under the influence, as well as any other offenses at the Court's discretion. Unfortunately, automobile accidents are the leading cause of death among young people. The goal of the TLC Program is to educate you and prevent negative driving behaviors in the future. The program also attempts to provide fundamental skills that can be applied to all areas of life.
 
-Depending on your particular traffic offense(s), you will be placed in one of the five TLC Modules. Each module has different requirements including some combination of educational videos, exams, driver's educational classes, interactive peer groups, seminars, and community service.
+Depending on your particular traffic offense(s), you will be placed in one of the five TLC Modules. Each module has different requirements including some combination of educational videos, exams, driver's educational classes, interactive peer groups, seminars and community service.
 
-Please take a moment to familiarize yourself with the Municipal Court of Atlanta TLC staff. The contact info is listed to the right of this page.
+**YOU MUST REGISTER FOR THE PROGRAM WITHIN 72 HOURS OF SENTENCING**
 
-YOU MUST REGISTER FOR THE PROGRAM WITHIN 72 HOURS OF SENTENCING
 
 I. REGISTRATION: Three (3) Steps
 
-Step 1: Assessment
+**Step 1: Assessment**
 
-Carefully read and completely fill out this [Assessment form](/pdfs/Assessment 3-2012.pdf), print and fax it to (404) 588-5995 or email it to <a href="mailto:tlanders@atlantaga.gov">tlanders@atlantaga.gov</a>.
+Carefully read and completely fill out this [**Assessment form**](court.atlantaga.gov / pdfs / TLC PROGRAM ASSESSMENT- revised 1-12-2012.doc), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
 
-Step 2: Module Assignment
+**Step 2: Module Assignment**
 
-Based on the information provided to you in court, please review the Module to which you were sentenced. Complete, sign and fax it to (404) 588-5995 or email it to tlanders@atlantaga.gov. 
+Please review the Module to which you were assigned at court. Each Module form identifies specific program steps/requirements. Complete the form, sign and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov). If you were not given any information regarding which Module is applicable to your sentence, please contact one of the TLC Coordinators.
 
-- [Module I](/pdfs/Mod I - staff contact update_4.16.13.pdf)
-- [Module II](/pdfs/Mod II - staff contact update_4.10.13.pdf)
-- [Module III](/pdfs/Module III - staff contact update_4.10.13.2.pdf)
-- [Module IV Spanish module](/pdfs/module iv -spanish module s.pdf)
-- [Module V](/pdfs/Module V  - staff contact update_4.10.13.pdf)
+**TLC Coordinators**
+Tekeema Landers (404)588-5905
+Sabrina Payne (404)588-5915
+Ajah Smith (404)588-5913
 
-The Module form identifies most violations as well as program steps/requirements. Based on the information provided to you in court, please review the Module to which you were sentenced. fax it to (404) 588-5995 or you may email it to either Tekeema Landers at <a href="mailto:tlanders@atlantaga.gov">tlanders@atlantaga.gov</a> or Sabrina Payne at <a href="mailto:slpayne@atlantaga.gov">slpayne@atlantaga.gov</a> .
+- [[Module I]](court.atlantaga.gov / pdfs / Mod I - (web version).doc )
+- [[Module II]](court.atlantaga.gov / pdfs / Mod II - (web version).doc )
+- [[Module III]](court.atlantaga.gov / pdfs / Module III - (web version).doc )
+- [Module IV Spanish module]
+- [[Module V]](court.atlantaga.gov / pdfs / Module V - (web version).doc )
 
-If you were not given any information regarding which Module is applicable to your sentence, please contact the TLC Coordinator.
+**Step 3: Community Service Requirements**
 
-[*TLC Module Overview](/pdfs/TLC Information Sheet  rev 30oct 13.pdf)
+Modules II, III, IV and V include a community service component. Please carefully read the **[Community Service Waiver**](court.atlantaga.gov / pdfs / Community Service Waiver.doc ) and **[Community Service Assignment Sheet]**(court.atlantaga.gov / pdfs / Comm Service Assignment Sheet.doc ). Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
 
-Module III Participants: You have an additional Defensive Driving Course to take. It must be a state certified 6-8 hour course. (Do not confuse this requirement with the ALIVE at 25 class you must attend). For information on the Defensive Driving Course, please contact the <a href="http://www.dds.ga.gov/DUI/SchoolMatrix.aspx">Department of Driver Services</a> for a state certified driver improvement clinic.
+Module III Participants: An additional Defensive Driving Course is mandatory; it must be a state certified 6-8 hour course. (This is separate from the ALIVE At 25 class you must also attend). For information on the Defensive Driving Course, please contact the [Department of Driver Services](http://www.dds.ga.gov/aboutus/contactus.aspx) for a state certified driver improvement clinic.
 
-: You have an Defensive Driving Course to take. It must be a state certified 6-8 hour course. (Do not confuse this requirement with the ALIVE at 25 class you must attend). For information on the Defensive Driving Course, please contact the for a state certified driver improvement clinic.
-Step 3: Community Service Requirements
+Please fax or email the following documents:
+1.	Assessment (completed)
+2.	Module Requirement Form (signed)
+3.	Community Service Waiver (signed)
+Fax: (404) 588-5995/ Email: [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov)
 
-Modules II, III, IV and V have a community service component. Please carefully read the Community Service Waiver and the Community Service Assignment Sheet. Print the waiver and sign it. You will be responsible for maintaining documention of all community service hours completed. Once your community service hours are complete, please turn in your documentation to a TLC Coordinator.
+**THIS COMPLETES YOUR REGISTRATION. PLEASE CONTINUE TO MODULE COMPLETION.**
 
-[Community Service Waiver.](/pdfs/community service waiver 12-30-09.pdf)
-
-[Community Service Assignment Sheet](/pdfs/Daily assignment sheet rev 4-30-12_updated 5.12.pdf)
-
-Please fax:
-
-1. Assessment (completed)
-2. Module Requirement Form (signed) 
-3. Community Service Waiver (signed)
-
-Fax: (404) 588-5995
-
-THIS COMPLETES YOUR REGISTRATION. PLEASE CONTINUE TO MODULE COMPLETION.
 
 II. MODULE COMPLETION:
 
-As soon as registration forms are completed and faxed into the TLC office, begin working on the completion of your Module Requirements immediately. Documentation of completed requirements are to be turned in two business days before your compliance hearing (reset date). You may bring them to the TLC office or fax them. Documentation will not be accepted by TLC staff on the day of your compliance hearing.
+Once registration forms are completed and faxed or emailed to the TLC division of the Community Court, immediately start the completion of your Module Requirements. **Documentation of completed requirements are to be turned in two (2) business days before your compliance hearing or reset date.** You may return the completed documents via fax, email or in person to the Community Court office; however, please make all copies beforehand. **NO documentation will not be accepted by TLC staff on the day of your compliance hearing or reset date.**
 
-Step 1: Registering for Classes offered at the Court: FYI/C=C Class
+**Step 1: Register for FYI/C=C Class**
 
-FYI/C=C classes are offered by the TLC/Court staff. Once you have completed the Registration, please contact a TLC coordinator to schedule the courses. Classes are assigned based on availability. You are completely responsible for registering for and getting to your assigned classes on time.
+FYI/C=C classes are offered by the TLC/Court staff. Classes are assigned based on availability. There is one class with two separate components as described below.
 
-FYI/C=C [Class Description](/pdfs/fyi class description 2-28-2011.pdf)
+FYI/C=C Class Description: 
+	Part 1: For Your Information (FYI)
+	This class is designed to educate participants on basic 		traffic laws and the effects of violating these laws. This 		class should ultimately assist participants in deterring 		negative behavior in the future.
 
-Registration for this class must be made by phone or in person. No Walk-ins will be accepted on the day of the class.
+	Part 2: Choices Equal Consequences (C=C)
+	This class is designed to address the areas of decision 		making, peer pressure and self-reflection as well as explore 	positive ways of dealing with life’s pressures.
 
-Please contact the TLC Staff. Contact info for the staff is listed on the right hand side of this page.
+You are entirely responsible for registration and travel arrangements to arrive to class on time. Once registration is completed, please contact a TLC coordinator to schedule a class. Registration for this class must be made by phone, email or in person.
 
-Step 2: Registering for and Attending Classes not offered at the Court: MADD VIP, ALIVE AT 25, Defensive Driving Courses, and the Teen Victim Impact Program
+**TLC Coordinators**
+Tekeema Landers (404)588-5905
+Sabrina Payne (404)588-5915
+Ajah Smith (404)588-5913
 
-MADD VICTIM IMPACT PANEL INFORMATION:
-MADD Victim Impact Panel - The Victim Impact Panel (VIP) is one of MADD's most widely recognized programs. This panel gives victims and survivors of drunk driving crashes an opportunity to share their story with offenders, probationers, and traffic violators. MADD Panels aim to prevent underage drinking, change attitudes and behaviors and reduce impaired driving recidivism rates. *Information obtained from MADD VIP brochure
+**No Walk-ins will be accepted on the day of the class.**
 
-*No eating, drinking, sleepling, reading, talking, etc allowed during the panel. If you violate this policy, you will be asked to leave and your fee will NOT be refunded.
+**Step 2: Register and Attend Additional Classes**: MADD VIP, ALIVE At 25, Defensive Driving Courses, and the Teen Victim Impact Program.
 
-Additional information on MADD VIP: 
+MADD VICTIM IMPACT PANEL INFORMATION: MADD Victim Impact Panel is one of MADD's most widely recognized programs. This panel gives victims and survivors of drunk driving crashes an opportunity to share their story with offenders, probationers and traffic violators. MADD Panels aim to prevent underage drinking, convert careless attitudes and behaviors as well as reduce impaired driving recidivism rates. 
 
-Please visit www.maddga.org for class dates, times and location. No pre-registration required. Simply show up on time. $50 money order ONLY. Must bring photo ID.
+Visit [www.madd.org](www.madd.org) for class dates, times and locations. Questions? Contact the MADD State Office at (770) 615-3737 (Main) or (888) 833-6033 (Toll Free).
 
-Any questions about the panel should be directed to MADD State Office at (770) 615-3735 (Main) or (877) 430-7596 (Toll Free).
 
-ALIVE AT 25 INFORMATION
-Alive at 25 is a Defensive Driving Course that specifically addresses the issues and situations affecting drivers between the ages of 16 and 24. The highly interactive four-hour program teaches young adults to take control - as drivers and passengers. Through real-world experiences, group discussion, interactive media segments, and even humor, DDC- Alive at 25 is a fun way to learn an important message. *Information obtained from Alive at 25 brochure 
+ALIVE At 25 INFORMATION: Alive At 25 is a Defensive Driving Course that specifically addresses issues and situations affecting drivers between the ages of 16 and 24. The highly interactive four-hour program teaches young adults to take control as drivers and passengers. Through real-world experiences, group discussion and interactive media segments, Alive At 25 is a fun way to learn an important message about responsibility and accountability. 
 
-Five Locations: Please click on one of the links below to view dates, times and registration information
+Please click the links below to view dates, times and registration information.
+[National Safety Council](http://www.nsc.org/Connect/Chapters-Training-Centers/Pages/georgia.aspx?utm_medium=(none)&utm_source=(direct)&utm_campaign=georgiadotnsc)
+[Peachtree DUI & Defensive Driving School](http://www.peachtreedui.com/)
+[Nathan’s Driving School, Inc.](http://www.nathansdrivingschool.net/)
+[Randall Safety Consulting, LLC](http://www.randallsafety.com/)
+[[Safety 1st of Georgia, LLC]](http://www.safety1stga.com/)
 
-Upcoming Class Dates for: [National Safety Council Alive at 25 class dates](http://www.georgia.nsc.org/)
-Upcoming Class Dates for: [Peachtree DUI & Defensive Driving School](http://www.peachtreedui.com/)
-Upcoming Class Dates for: [Nathan’s Driving School, Inc.](http://www.nathansdrivingschool.net/)
-Upcoming Class Dates for: [Randall Safety Consulting, LLC](http://www.randallsafety.com/)
-Upcoming Class Dates for: [Safety 1st of Georgia, LLC](http://www.safety1stofstockbridge.com/)
+DEFENSIVE DRIVING COURSE INFORMATION: (For Module III participants only) The Defensive Driving Course must be a state certified 6-8 hour course. Contact the Department of Driver Services for a state certified driver improvement clinic.
 
-DEFENSIVE DRIVING COURSE INFORMATION (For Module III participants only)
-Defensive Driving Course - This must be a state certified 6-8 hour course. For information on taking this course, contact the [Department of Driver Services](http://www.dds.ga.gov/DUI/SchoolMatrix.aspx) for a state certified driver improvement clinic.
+TEEN VICTIM IMPACT PROGRAM: The Teen Victim Impact Program was specifically designed to encourage proper seat belt use, emphasize the dangers of cell phones while driving and educate young drivers about the consequences of speeding. Register at [www.tvip.org](www.tvip.org).
 
-TEEN VICTIM IMPACT PROGRAM
-The Teen Victim Impact Program was designed with two goals in mind. To get rid of the mindset ‘It Won’t Happen To Me’ and to instill the importance of seat belt use. To register for the Teen Victim Impact Program, go to tvip.org.
 
-Please review the [Standards of Proof](standards of proof jan 08.pdf) for acceptable documents to complete your module.
+III.	OUT OF STATE TLC MODULE COMPLETION: "I AM OUT OF STATE. HOW CAN I COMPLETE THIS PROGRAM?"
 
-III. OUT OF STATE TLC MODULE COMPLETION: 
-"I AM OUT OF STATE. HOW CAN I COMPLETE THIS PROGRAM?"
+**Step 1: Register with the Program.** Verification of “out of state” status will be confirmed by a TLC Coordinator. Participants who live and/or attend college out of state are eligible for this module.
 
-Step 1: Register with the Program. Verification of out of state status will be confirmed by a TLC Coordinator.
+**Step 2: Once your “out of state” status is confirmed, complete the [Alternative FYI/C=C Class Assignment](court.atlantaga.gov / pdfs / Alternative Assignmentupdated.docx ).** For information concerning the Teenage and Adult Driver Responsibility Act, please view the [Governor's Office of Highway Safety Link](http://www.gahighwaysafety.org/).
 
-Step 2: Once your out of state status is confirmed (for those participants that live and/or attend college out of state), complete the [Alternative FYI and C=C class Assignment](alternative assign 11-08-09.pdf). For information concerning Teenage and Adult Driver Responsibility Act, please view the Governor's Office of [Highway Safety Link](http://www.gohs.state.ga.us/).
+You will also be able to complete Alive At 25 and the MADD VIP (Victim Impact Panel) courses in a local county near you. Please refer to the previous section to locate the Alive at 25 and MADD VIP chapters nearest you.
 
-You will also be able to complete Alive at 25 and the MADD VIP (Victim Impact Panel) in a local county near you. Please click on the links, enter the city or zip code to locate the nearest ALIVE at 25 and MADD VIP chapters.
+Module III Out of State Participants: An additional Defensive Driving Course is mandatory; it must be a state certified 6-8 hour course. (This is separate from the Alive At 25 class you must also attend). For information on a Defensive Driving Course, please contact the Department of Driver Services for a state certified driver improvement clinic in your area.
 
-Module III Out of State Participants: You have an additional Defensive Driving Course to take. It must be a state certified 6-8 hour course. (Do not confuse this requirement with the ALIVE at 25 class you must attend). For information on the Defensive Driving Course, please contact the Department of Driver Services for a state certified driver improvement clinic in your area.
-
-Please Note: As soon as registration forms are completed and faxed into the TLC office, promptly begin working on the completion of your Module Requirements. Documentation of completed requirements are to be turned in two business days before your compliance hearing (reset date). You may bring them to the TLC office or fax them. Documentation will not be accepted by TLC staff on the day of your compliance hearing. You will need to bring them to Court with you.
+Please Note: Once registration forms are completed and faxed or emailed to the TLC office, start the completion of your Module Requirements immediately. **Documentation of completed requirements are to be turned in two (2) business days before your compliance hearing or reset date.** You may return the completed documents via fax, email or in person to the TLC office; however, please make all copies beforehand. **NO documentation will not be accepted by TLC staff on the day of your compliance hearing or reset date.**
