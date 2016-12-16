@@ -64,10 +64,10 @@ FYI/C=C classes are offered by the TLC/Court staff. Classes are assigned based o
 
 FYI/C=C Class Description: 
 	Part 1: For Your Information (FYI)
-	This class is designed to educate participants on basic 		traffic laws and the effects of violating these laws. This 		class should ultimately assist participants in deterring 		negative behavior in the future.
+	This class is designed to educate participants on basic traffic laws and the effects of violating these laws. This class should ultimately assist participants in deterring 		negative behavior in the future.
 
 	Part 2: Choices Equal Consequences (C=C)
-	This class is designed to address the areas of decision 		making, peer pressure and self-reflection as well as explore 	positive ways of dealing with life’s pressures.
+	This class is designed to address the areas of decision making, peer pressure and self reflection as well as explore positive ways of dealing with life’s pressures.
 
 You are entirely responsible for registration and travel arrangements to arrive to class on time. Once registration is completed, please contact a TLC coordinator to schedule a class. Registration for this class must be made by phone, email or in person.
 
