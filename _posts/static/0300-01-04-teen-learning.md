@@ -22,8 +22,7 @@ I. REGISTRATION: Three (3) Steps
 
 **Step 1: Assessment**
 
-Carefully read and completely fill out this [[Assessment form]](http://court.atlantaga.gov/pdfs/TLCPROGRAMASSESSMENT-revised.pdf), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov ), [slpayne@atlantaga.gov](slpayne@atlantaga.gov)
-or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
+Carefully read and completely fill out this [[Assessment form]](http://court.atlantaga.gov/pdfs/TLCPROGRAMASSESSMENT-revised.pdf), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov ), [slpayne@atlantaga.gov](slpayne@atlantaga.gov)or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
 
 **Step 2: Module Assignment**
 
@@ -34,15 +33,15 @@ Tekeema Landers (404)588-5905
 Sabrina Payne (404)588-5915
 Ajah Smith (404)588-5913
 
-- Module I
-- Module II
-- Module III
+- [Module I](court.atlantaga.gov / pdfs / ModI-(webversion).pdf )
+- [Module II](court.atlantaga.gov / pdfs / ModuleII-(webversion).pdf )
+- [Module III](court.atlantaga.gov / pdfs / ModuleIII-(webversion).pdf)
 - Module IV Spanish module
-- Module V
+- [Module V](court.atlantaga.gov / pdfs / ModuleV-(webversion).pdf )
 
 **Step 3: Community Service Requirements**
 
-Modules II, III, IV and V include a community service component. Please carefully read the Community Service Waiver and Community Service Assignment Sheet. Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
+Modules II, III, IV and V include a community service component. Please carefully read the [Community Service Waiver](court.atlantaga.gov / pdfs / CommunityServiceWaiver.pdf ) and [Community Service Assignment Sheet](court.atlantaga.gov / pdfs / CommServiceAssignmentSheet.pdf ). Print both and sign. The community service assignment sheet contains specific program requirements as well as space to log your community service hours. You will be responsible for maintaining documentation of all community service hours completed. Once your community service hours are complete, please turn in all documentation to a TLC Coordinator.
 
 Module III Participants: An additional Defensive Driving Course is mandatory; it must be a state certified 6-8 hour course. (This is separate from the ALIVE At 25 class you must also attend). For information on the Defensive Driving Course, please contact the [Department of Driver Services](http://www.dds.ga.gov/aboutus/contactus.aspx) for a state certified driver improvement clinic.
 
@@ -50,7 +49,7 @@ Please fax or email the following documents:
 1.	Assessment (completed)
 2.	Module Requirement Form (signed)
 3.	Community Service Waiver (signed)
-Fax: (404) 588-5995/ Email: [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov)
+Fax: (404) 588-5995/ Email: [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov).
 
 **THIS COMPLETES YOUR REGISTRATION. PLEASE CONTINUE TO MODULE COMPLETION.**
 
@@ -93,7 +92,7 @@ Please click the links below to view dates, times and registration information.
 [Peachtree DUI & Defensive Driving School](http://www.peachtreedui.com/)
 [Nathan’s Driving School, Inc.](http://www.nathansdrivingschool.net/)
 [Randall Safety Consulting, LLC](http://www.randallsafety.com/)
-[[Safety 1st of Georgia, LLC]](http://www.safety1stga.com/)
+[Safety 1st of Georgia, LLC](http://www.safety1stga.com/)
 
 DEFENSIVE DRIVING COURSE INFORMATION: (For Module III participants only) The Defensive Driving Course must be a state certified 6-8 hour course. Contact the Department of Driver Services for a state certified driver improvement clinic.
 
@@ -104,7 +103,7 @@ III.	OUT OF STATE TLC MODULE COMPLETION: "I AM OUT OF STATE. HOW CAN I COMPLETE 
 
 **Step 1: Register with the Program.** Verification of “out of state” status will be confirmed by a TLC Coordinator. Participants who live and/or attend college out of state are eligible for this module.
 
-**Step 2: Once your “out of state” status is confirmed, complete the Alternative FYI/C=C Class Assignment.
+**Step 2: Once your “out of state” status is confirmed, complete the [Alternative FYI/C=C Class Assignment](court.atlantaga.gov / pdfs / AlternativeAssignmentupdated.pdf ).
 For information concerning the Teenage and Adult Driver Responsibility Act, please view the Governor's Office of Highway Safety Link.
 
 You will also be able to complete Alive At 25 and the MADD VIP (Victim Impact Panel) courses in a local county near you. Please refer to the previous section to locate the Alive at 25 and MADD VIP chapters nearest you.
