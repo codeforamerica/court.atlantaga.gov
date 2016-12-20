@@ -22,11 +22,11 @@ I. REGISTRATION: Three (3) Steps
 
 **Step 1: Assessment**
 
-Carefully read and completely fill out this [[Assessment form]](http://court.atlantaga.gov/pdfs/TLCPROGRAMASSESSMENT-revised.pdf), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](http://court.atlantaga.gov/tlanders@atlantaga.gov ), [slpayne@atlantaga.gov](http://court.atlantaga.gov/slpayne@atlantaga.gov)or [aosmith@atlantaga.gov](http://court.atlantaga.gov/aosmith@atlantaga.gov).
+Carefully read and completely fill out this [[Assessment form]](http://court.atlantaga.gov/pdfs/TLCPROGRAMASSESSMENT-revised.pdf), print and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](mailto:tlanders@atlantaga.gov), [slpayne@atlantaga.gov](mailto:slpayne@atlantaga.gov) or [aosmith@atlantaga.gov]( "mailto:aosmith@atlantaga.gov").
 
 **Step 2: Module Assignment**
 
-Please review the Module to which you were assigned at court. Each Module form identifies specific program steps/requirements. Complete the form, sign and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](tlanders@atlantaga.gov), [slpayne@atlantaga.gov](slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](aosmith@atlantaga.gov). If you were not given any information regarding which Module is applicable to your sentence, please contact one of the TLC Coordinators.
+Please review the Module to which you were assigned at court. Each Module form identifies specific program steps/requirements. Complete the form, sign and fax to (404) 588-5995 or email to [tlanders@atlantaga.gov](mailto:tlanders@atlantaga.gov), [slpayne@atlantaga.gov](mailto:slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](mailto:aosmith@atlantaga.gov). If you were not given any information regarding which Module is applicable to your sentence, please contact one of the TLC Coordinators.
 
 **TLC Coordinators**
 Tekeema Landers (404)588-5905
@@ -49,7 +49,7 @@ Please fax or email the following documents:
 1.	Assessment (completed)
 2.	Module Requirement Form (signed)
 3.	Community Service Waiver (signed)
-Fax: (404) 588-5995/ Email: [tlanders@atlantaga.gov](http://court.atlantaga.gov/tlanders@atlantaga.gov), [slpayne@atlantaga.gov](http://court.atlantaga.gov/slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](http://court.atlantaga.gov/aosmith@atlantaga.gov).
+Fax: (404) 588-5995/ Email: [tlanders@atlantaga.gov](mailto:tlanders@atlantaga.gov), [slpayne@atlantaga.gov](mailto:slpayne@atlantaga.gov) or [aosmith@atlantaga.gov](mailto:aosmith@atlantaga.gov).
 
 **THIS COMPLETES YOUR REGISTRATION. PLEASE CONTINUE TO MODULE COMPLETION.**
 
