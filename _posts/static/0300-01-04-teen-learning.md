@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 permalink: /teenlearning
 title: Teen Learning
 ---
