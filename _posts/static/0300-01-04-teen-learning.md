@@ -33,11 +33,11 @@ Tekeema Landers (404)588-5905
 Sabrina Payne (404)588-5915
 Ajah Smith (404)588-5913
 
-- [[Module I](http://court.atlantaga.gov/pdfs/ModI-(webversion).pdf)]
-- [Module II](http://court.atlantaga.gov/pdfs/ModuleII-(webversion).pdf)
-- [Module III](http://court.atlantaga.gov/pdfs/ModuleIII-(webversion).pdf)
+- [[Module I](http://court.atlantaga.gov/pdfs/ModI-(webversion.pdf)
+- [Module II](http://court.atlantaga.gov/pdfs/ModuleII-(webversion.pdf)
+- [Module III](http://court.atlantaga.gov/pdfs/ModuleIII-(webversion.pdf)
 - Module IV Spanish module
-- [Module V](http://court.atlantaga.gov/pdfs/ModuleV-(webversion).pdf )
+- [Module V](http://court.atlantaga.gov/pdfs/ModuleV-(webversion.pdf)
 
 **Step 3: Community Service Requirements**
 
