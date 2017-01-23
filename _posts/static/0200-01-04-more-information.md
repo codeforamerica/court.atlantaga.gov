@@ -11,7 +11,7 @@ title: More Information
 
 ## See these pages for more info...
 
-- [[New! Failure to Appear (FTA) Guidelines]](http://court.atlantaga.gov/pdfs/FailuretoAppearGuidelines.pdf )
+- [New! Failure to Appear (FTA) Guidelines](http://court.atlantaga.gov/pdfs/FailuretoAppearGuidelines.pdf )
 - [Court Calendar for Defendants](http://courtview.atlantaga.gov/courtcalendars/default.aspx?Calendar=D)
 - [Court Calendar for Officers](http://courtview.atlantaga.gov/courtcalendars/default.aspx?Calendar=O)
 - [2017 Holiday Closings](/holiday-closings)
