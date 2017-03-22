@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 permalink: /moreinformation
 title: More Information
 ---
