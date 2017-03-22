@@ -1,6 +1,6 @@
 ---
 layout: page
-published: true
+published: false
 permalink: /moreinformation
 title: More Information
 ---
@@ -29,4 +29,4 @@ title: More Information
 - [Tax Refund Intercept Program](http://trip.georgiacourts.gov/)
 - [Teens Learning Control Program](/teenlearning)
 - [Towed Vehicle Information](/towedvehicles)
-- [Traffic Violations Bureau Offenses & Fines](/pdfs/Court of Atlanta Bond Schedule revised 2015.pdf)
+- [Traffic Violations Bureau Offenses & Fines](http://court.atlantaga.gov/pdfs/CourtofAtlantaBondSchedule.pdf)
