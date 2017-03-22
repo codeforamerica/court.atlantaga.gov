@@ -30,4 +30,4 @@ title: More Information
 - [Teens Learning Control Program](/teenlearning)
 - [Towed Vehicle Information](/towedvehicles)
 - [Traffic Violations Bureau Offenses & Fines](http://court.atlantaga.gov/pdfs/CourtofAtlantaBondSchedule.pdf)
-- [TEST](court.atlantaga.gov/pdfs/CourtofAtlantaBondSchedule.pdf )
+- [TEST](/pdfs/CourtofAtlantaBondSchedule.pdf )
