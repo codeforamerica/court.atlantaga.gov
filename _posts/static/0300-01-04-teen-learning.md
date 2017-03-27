@@ -34,6 +34,10 @@ Sabrina Payne (404)588-5915
 Ajah Smith (404)588-5913
 
 - [Module I](http://court.atlantaga.gov/pdfs/ModuleIweb.pdf )
+- [Module II](http://court.atlantaga.gov/pdfs/ModIIwebrev.3.27.17.pdf )
+- [Module III](http://court.atlantaga.gov/pdfs/ModuleIIIwebrev.3.27.17.pdf )
+
+
 - [Module II](http://court.atlantaga.gov/pdfs/ModuleIIweb.pdf )
 - [Module III](http://court.atlantaga.gov/pdfs/ModuleIIIweb.pdf )
 - Module IV Spanish module
