@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 title: Before you pay
 ---
 ## Before you pay
@@ -15,11 +15,3 @@ Click [here](http://ditweb.atlantaga.gov/ptit/) for more information on PTIT.
 Click [Pay Online](https://courtview.atlantaga.gov/eservices/home.page.2) to pay online and NOT utilize PTIT.
 
 ### Once you pay online, you are not eligible for PTIT.
-
-
-
-
-
-
-
-
