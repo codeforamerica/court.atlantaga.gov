@@ -1,6 +1,6 @@
 ---
 layout: page
-published: true
+published: false
 title: Before you pay
 ---
 ## Before you pay
