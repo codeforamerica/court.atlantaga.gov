@@ -1,6 +1,6 @@
 ---
 layout: page
-published: true
+published: false
 title: Before you pay
 permalink: /before-you-pay
 ---
