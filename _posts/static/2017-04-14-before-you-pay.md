@@ -2,6 +2,7 @@
 layout: page
 published: true
 title: Before you pay
+permalink: before-you-pay
 ---
 ## Before you pay
 ### Want to avoid points on your license and maintain a good driving history?
