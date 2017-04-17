@@ -30,7 +30,7 @@ Office Manager: Catherine Holden <[cholden@atlantaga.gov](mailto:cholden@atlanta
 
 Commonly known as PTIT, is an alternative to traditional prosecution and sentencing of a case. The program provides traffic offenders an opportunity to resolve their case without proceeding through the traditional court process and sentencing. The program's purpose is to promote responsibility, assist citizens in avoiding points on their license, and provide a service without additional cost to taxpayers. Participation in the program is limited to once every 12 months.
 
-Click [here](http://ditweb.atlantaga.gov/ptit/PTITHome) for more information on PTIT.
+Click [here](http://ditweb.atlantaga.gov/ptit) for more information on PTIT.
 
 ## Pre-Trial Intervention
 
