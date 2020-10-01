@@ -1,4 +1,5 @@
 ---
+language: latin
 published: true
 category: blog
 layout: blog
